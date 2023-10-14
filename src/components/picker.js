@@ -97,7 +97,7 @@ class Picker extends Component {
               </button>
             </div>
           </div>
-          <h6>Chillara V L N S Pavana Vamsi</h6>
+          <h6>NSV Aakash Varma</h6>
         </div>
       </center>
     );
